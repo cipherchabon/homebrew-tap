@@ -1,4 +1,4 @@
-class Md2pdf < Formula
+class Md2pdfRs < Formula
   desc "A CLI tool to convert Markdown to PDF using Typst"
   homepage "https://github.com/cipherchabon/md2pdf"
   url "https://static.crates.io/crates/md2pdf-rs/md2pdf-rs-0.1.0.crate"
